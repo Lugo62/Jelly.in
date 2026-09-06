@@ -356,20 +356,13 @@ export default function App() {
 
         {/* Bottom Metadata Metrics */}
         <footer className="fs-footer-bar">
-          <div className="fs-meta-item">
-            <span className="fs-meta-label">MEMORY TTL</span>
-            <span className="fs-meta-val">60 MIN</span>
-          </div>
+         
           <div className="fs-meta-divider" />
           <div className="fs-meta-item">
-            <span className="fs-meta-label">DATABASE PRUNE</span>
-            <span className="fs-meta-val">AUTO ROLLING</span>
+            <span className="fs-meta-label">CRAFTED WITH ❤️</span>
+            <span className="fs-meta-val"></span>
           </div>
           <div className="fs-meta-divider" />
-          <div className="fs-meta-item">
-            <span className="fs-meta-label">ENCRYPTION PROTOCOL</span>
-            <span className="fs-meta-val">CLIENT ANONYMIZED</span>
-          </div>
         </footer>
       </div>
     );
