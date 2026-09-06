@@ -261,7 +261,7 @@ export default function App() {
               INCIDENTAL ROOMS.<br />
               <span className="fs-gradient-text">ZERO-TRACE CHAT.</span>
             </h1>
-            <p className="fs-hero-desc" style = {{fontstyle: 'italic'}}>
+            <p className="fs-hero-desc">
               Disposable anonymous communication hubs. Rooms, identities, and message history auto-destruct following 60 minutes of inactivity.
             </p>
           </div>
