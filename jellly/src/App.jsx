@@ -262,7 +262,7 @@ export default function App() {
               <span className="fs-gradient-text">ZERO-TRACE CHAT.</span>
             </h1>
             <p className="fs-hero-desc">
-              Disposable anonymous communication hubs. Rooms, identities, and message history auto-destruct following 60 minutes of inactivity.
+             Disposable discussion channels built for quick syncs. Inactive rooms and messages are scrubbed entirely after 60 minutes.
             </p>
           </div>
 

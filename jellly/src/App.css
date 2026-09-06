@@ -166,7 +166,6 @@ body {
   font-size: clamp(0.85rem, 1.6vw, 1rem);
   line-height: 1.6;
   color: #8b949e;
-  font-style: italic;
 }
 
 /* 3. Action Console */
