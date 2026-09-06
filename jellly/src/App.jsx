@@ -360,7 +360,7 @@ export default function App() {
           <div className="fs-meta-divider" />
           <div className="fs-meta-item">
             <span className="fs-meta-label">CRAFTED WITH ❤️</span>
-            <span className="fs-meta-val"></span>
+            <span className="fs-meta-val">~Gokul~</span>
           </div>
           <div className="fs-meta-divider" />
         </footer>
